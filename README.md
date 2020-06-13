@@ -1,3 +1,5 @@
+![Pharmacy wallpaper](https://i.pinimg.com/originals/9f/08/d5/9f08d5b07190918f066c318a31c01f66.jpg)
+image credit:https://www.pinterest.com/
 # Pymaceuticals Inc. 
 ## Analyzing data from the recentmost animal study
 **_Pymaceuticals Inc._**, a burgeoning pharmaceutical company based in San Diego, specializes in anti-cancer pharmaceuticals. Recently, the company began screening for potential treatments for **squamous cell carcinoma (SCC)**, a commonly occurring form of skin cancer.  
