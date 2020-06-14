@@ -1,5 +1,5 @@
 ![Title page illustration](figures/Title_fig.jpg)  
-image credit:https://www.pinterest.com/
+illustration by: author
 # Pymaceuticals Inc. 
 ## Analyzing data from the recentmost animal study
 **_Pymaceuticals Inc._**, a burgeoning pharmaceutical company based in San Diego, specializes in anti-cancer pharmaceuticals. Recently, the company began screening for potential treatments for **squamous cell carcinoma (SCC)**, a commonly occurring form of skin cancer.  
