@@ -1,4 +1,4 @@
-![Pharmacy wallpaper](https://i.pinimg.com/originals/9f/08/d5/9f08d5b07190918f066c318a31c01f66.jpg)  
+![Title page illustration](figures/Title_fig.jpg)  
 image credit:https://www.pinterest.com/
 # Pymaceuticals Inc. 
 ## Analyzing data from the recentmost animal study
